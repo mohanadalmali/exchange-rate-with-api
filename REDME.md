@@ -1,0 +1,1 @@
+Exchange rate application with API used simple and useful Python language and modules
